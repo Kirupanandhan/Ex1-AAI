@@ -1,4 +1,4 @@
-<H3> Name: Kirupanandhan T V</H3>
+<H3> Name: Kirupanandhan T</H3>
 <H3>Register No: 212221230051</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
