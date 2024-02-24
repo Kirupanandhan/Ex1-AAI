@@ -87,10 +87,12 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-![image](https://github.com/Bharath745/Ex1-AAI/assets/94508354/8707ccc6-5d55-4fd4-be06-e5dffcc2de23)
+![image](https://github.com/Kirupanandhan/Ex1-AAI/assets/94386222/bbdd3912-df7d-4bc0-b346-417f54ebc362)
 
 
-![image](https://github.com/Bharath745/Ex1-AAI/assets/94508354/6e1e7167-e3eb-47f8-88a2-7db9a086567e)
+
+![image](https://github.com/Kirupanandhan/Ex1-AAI/assets/94386222/30e0738f-1fd8-4098-81f0-0dc0b9e02ed3)
+
 
 
 ## Result:
